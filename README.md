@@ -1,6 +1,13 @@
 # Prototype Repository
 
+
+
+
 This repository contains shared frontend assets (e.g., CSS, JS, images, fonts, and libraries) used across multiple projects.
+
+## 📁 Demo site
+
+Web: https://minhtri-thk.github.io/prototype/src/index.html
 
 ## 📁 Folder Structure
 
